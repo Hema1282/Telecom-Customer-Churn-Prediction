@@ -25,5 +25,7 @@ Churn rate, a key metric representing the number of customers who terminate or d
  * Evaluated model performance based on metrics such as accuracy, precision, recall, and ROC-AUC score to select the optimal model for churn prediction.
 
 
+![Customer Demographics]
+
 
 
