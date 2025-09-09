@@ -1,4 +1,6 @@
 # Telecom Customer Churn Prediction
+[![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/fc9b3b12723b15e350566feaac102aabb4a67342/assests/people.jpg)]
+
 ## Project Overview:
 In today's competitive telecom industry, retaining customers is more important than ever. Customer churn, or when users leave for another provider, can significantly impact a company's bottom line. This project focuses on building a predictive model to help identify which customers are likely to leave based on their usage patterns, behavior, and other factors. By understanding these patterns, companies can act early to keep customers happy and reduce churn.
 ## Problem Statement:
