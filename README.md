@@ -34,9 +34,26 @@ Churn rate, a key metric representing the number of customers who terminate or d
 |Impacting features|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/impacting_feature.png)|
 |Impacting features|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/impacting_feature%20(2).png)|
 |Target Variable|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/Churn_target_variable.png.png)|
-|Newly created Impacting features|![Image Alt Text]()|
 |Obesrvations|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/insights1.png)|
 |Observations|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/insights2.png)|
+
+**Observations:**
+- Customers with **no dependents** are more likely to churn.
+
+- **Fibre Optic internet service** customers are more prone to churning.
+  
+- **Month-to-Month contract** customers tend to churn more than those with 1/2 years contract customers.
+  
+- Customers using **Electronic checks for payments** are more likely to churn
+
+- **Paperless billing** users churns more
+
+
+**Conclusion:**
+
+In this project, we developed a machine learning model to predict customer churn in the telecom industry. After exploring various algorithms, we found that the Gradient Boosting model achieved the highest accuracy of 80% in predicting churn. This model outperformed other algorithms, demonstrating its effectiveness in identifying complex patterns in customer behavior.
+
+
 
 
 
