@@ -29,8 +29,8 @@ Churn rate, a key metric representing the number of customers who terminate or d
 
 |**Feature**|**Image**|
 |---|---|
-|Customer Demographics|!(https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/customer_info.png)|
-|Services|!(https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/services.png)|
+|Customer Demographics|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/customer_info.png)|
+|Services|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/services.png)|
 
 
 
