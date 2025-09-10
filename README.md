@@ -8,20 +8,20 @@ In the dynamic landscape of the telecommunications industry, customers wield the
 
 
 Churn rate, a key metric representing the number of customers who terminate or do not renew their subscriptions, directly impacts revenue. Given the high costs associated with acquiring new customers, an in-depth churn analysis is imperative. Insights derived from this analysis empower companies to formulate strategic approaches, target specific segments, enhance service quality, and ultimately foster trust with their customers. Building predictive models and generating comprehensive reports through churn analysis thus becomes instrumental in driving sustainable growth.
-## Methodology
-## 1.Data Collection and Preparation:
+## Methodology:
+### 1.Data Collection and Preparation:
 
  * Curated a comprehensive dataset comprising customer demographics, service usage details, contract specifics, and billing preferences.
  * Employed rigorous data cleaning and preprocessing techniques to ensure data integrity and consistency.
 
 
-## 2.Exploratory Data Analysis (EDA):
+### 2.Exploratory Data Analysis (EDA):
 
  * Conducted in-depth EDA to uncover hidden patterns, correlations, and anomalies within the dataset.
  * Visualized key metrics such as customer segmentation by contract type and churn propensity across different customer segments using tools like Power BI for interactive visualizations.
 
 
-## 3.Predictive Modeling:
+### 3.Predictive Modeling:
 
  * Developed and fine-tuned machine learning models including Logistic Regression, Random Forest, and Gradient Boosting.
  * Evaluated model performance based on metrics such as accuracy, precision, recall, and ROC-AUC score to select the optimal model for churn prediction.
@@ -31,13 +31,13 @@ Churn rate, a key metric representing the number of customers who terminate or d
 |---|---|
 |Customer Demographics|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/customer_info.png)|
 |Services|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/services.png)|
+|Target Variable|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/Churn_target_variable.png.png)|
 |Impacting features|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/impacting_feature.png)|
 |Impacting features|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/impacting_feature%20(2).png)|
-|Target Variable|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/Churn_target_variable.png.png)|
 |Obesrvations|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/insights1.png)|
 |Observations|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/insights2.png)|
 
-**Observations:**
+## Observations:
 - Customers with **no dependents** are more likely to churn.
 
 - **Fibre Optic internet service** customers are more prone to churning.
@@ -49,7 +49,7 @@ Churn rate, a key metric representing the number of customers who terminate or d
 - **Paperless billing** users churns more
 
 
-**Conclusion:**
+## Conclusion:
 
 In this project, we developed a machine learning model to predict customer churn in the telecom industry. After exploring various algorithms, we found that the Gradient Boosting model achieved the highest accuracy of 80% in predicting churn. This model outperformed other algorithms, demonstrating its effectiveness in identifying complex patterns in customer behavior.
 
