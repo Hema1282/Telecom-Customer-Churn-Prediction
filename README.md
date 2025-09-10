@@ -31,6 +31,20 @@ Churn rate, a key metric representing the number of customers who terminate or d
 |---|---|
 |Customer Demographics|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/customer_info.png)|
 |Services|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/services.png)|
+|Impacting features|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/impacting_feature.png)|
+|Impacting features|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/impacting_feature%20(2).png)|
+|Target Variable|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/Churn_target_variable.png.png)|
+|Newly created Impacting features|![Image Alt Text]()|
+|Obesrvations|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/insights1.png)|
+|Observations|![Image Alt Text](https://github.com/Hema1282/Telecom-Customer-Churn-Prediction/blob/43d42b2e547ddc59d7e149c0bd5893ab3b1d93f8/assests/insights2.png)|
+
+
+
+
+
+
+
+
 
 
 
